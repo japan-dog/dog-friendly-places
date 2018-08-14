@@ -13,7 +13,7 @@
 
 ## Photos
 
-| A birthday cake for a dog (ワンちゃんの誕生日ケーキ) :cake: :sparkles: | A rest room for a dog （ワンちゃんのトイレ）:dog: :heart:
+| Birthday cake for a dog (ワンちゃんの誕生日ケーキ) :cake: :sparkles: | Rest room for a dog （ワンちゃんのトイレ）:dog: :heart: |
 | --- | --- | 
 | <img src="./images/birthday_cake_yasaiya.png" width="80%" > </img> | <img src="./images/rest_room_yasaiya.png" width="80%" > </img> | 
 
