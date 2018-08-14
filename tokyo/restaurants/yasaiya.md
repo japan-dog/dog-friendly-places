@@ -15,7 +15,7 @@
 
 A birthday cake for a dog (ワンちゃんの誕生日ケーキ) :cake: :sparkles:
 
-![](.images/birthday_cake_yasaiya.png)
+![](./images/birthday_cake_yasaiya.png)
 
 A rest room for a dog （ワンちゃんのトイレ）:dog: :heart:
 
