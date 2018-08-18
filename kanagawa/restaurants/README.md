@@ -1,2 +1,2 @@
 
-- [Etage (エタージュ @横浜マンダリンホテル)](https://github.com/japan-dogs/dog-friendly-places/blob/chakos518/yokohama-restauran/kanagawa/restaurants/etage.md)
+- [Etage (エタージュ @横浜マンダリンホテル)](https://github.com/japan-dogs/dog-friendly-places/blob/master/kanagawa/restaurants/etage.md)
