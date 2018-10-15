@@ -11,6 +11,8 @@
 | Own room |  nothing |  |
 | Dog rest room |  nothing |  |  
 
+They have great coffee and food :party: You can enjoy at the cafe :coffee:
+
 ## Photos
 
 | Dogs can be inside of the shop :heart: | 
